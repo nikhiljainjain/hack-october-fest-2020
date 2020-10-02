@@ -3,7 +3,7 @@ A repo for hack october fest 2020
 
 ## Participate in Hack October Fest 2020
 
-_Step 1_: Register on the following link. [Registration Link](https://hacktoberfest.digitalocean.com/login)
+_Step 1_: Register on the following link [Registration Link](https://hacktoberfest.digitalocean.com/login).<br/>
 Register email used for github account.
 
 _Step 2_: Fork this repo on your github account.
